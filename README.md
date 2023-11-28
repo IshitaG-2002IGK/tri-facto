@@ -16,3 +16,4 @@
 - Yfinance
 - GCP
 
+Youtube Video: https://devpost.com/software/trifacto
